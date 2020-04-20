@@ -20,7 +20,7 @@ Informações sobre as principais modalidades olímpicas da atualidade com descr
 * [Android Studio](https://developer.android.com/studio) - IDE e Emulador Android
 
 ## Licença
-[MIT License](https://www.mit.edu/~amini/LICENSE.md)
+* [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
 ## Autor
 
