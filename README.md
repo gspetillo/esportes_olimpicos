@@ -1,16 +1,27 @@
-# esportes_olimpicos
+# Esportes Olímpicos
 
-A new Flutter project.
+### Aplicativo Mobile Android desenvolvido em Flutter para a disciplina de Desenvolvimento Cross Platform da [FIAP](https://www.fiap.com.br/)
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Informações sobre as principais modalidades olímpicas da atualidade com descrição, data de criação, região de surgimento, categorias disputadas e federação internacional do esporte.
 
-A few resources to get you started if this is your first Flutter project:
+**Funcionalidades**
+* [ ]  Navegação por *Cards*
+* [ ]  Métodos de consulta assíncronos
+* [ ]  Identidade visual baseada no [Material Design](https://material.io/)
+* [ ]  Ícones *flat* para identificação das modalidades
+* [ ]  Repositório com objetos *Mock*
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tecnologias
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Flutter SDK](https://flutter.dev/) - Framework Reativo Mobile
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE
+* [Android Studio](https://developer.android.com/studio) - IDE e Emulador Android
+
+## Licença
+[MIT License](https://www.mit.edu/~amini/LICENSE.md)
+
+## Autor
+
+* **Gabriel S. Petillo** | [Linkedin](https://www.linkedin.com/in/gabrielpetillo/) ,  [GitHub](https://www.github.com/gspetillo)
