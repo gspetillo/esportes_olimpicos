@@ -15,9 +15,9 @@ Informações sobre as principais modalidades olímpicas da atualidade com descr
 
 ## Tecnologias
 
-[Flutter SDK](https://flutter.dev/) - Framework Reativo Mobile
-[Visual Studio Code](https://code.visualstudio.com/) - IDE
-[Android Studio](https://developer.android.com/studio) - IDE e Emulador Android
+* [Flutter SDK](https://flutter.dev/) - Framework Reativo Mobile
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE
+* [Android Studio](https://developer.android.com/studio) - IDE e Emulador Android
 
 ## Licença
 [MIT License](https://www.mit.edu/~amini/LICENSE.md)
