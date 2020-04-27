@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=C:\Flutter\flutter
-FLUTTER_APPLICATION_PATH=C:\Users\Gabriel Petillo\Documents\Faculdades\FIAP\3SIA - 2020\Desenvolvimento Cross Platform\NAC1\gitt\esportes_olimpicos
+FLUTTER_APPLICATION_PATH=C:\Users\Gabriel Petillo\Documents\Faculdades\FIAP\3SIA - 2020\Desenvolvimento Cross Platform\NAC1\esportes_olimpicos
 FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build\ios
